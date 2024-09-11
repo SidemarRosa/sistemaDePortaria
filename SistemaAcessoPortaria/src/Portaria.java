@@ -1,9 +1,5 @@
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.SQLException;
-
 public class Portaria {
-    // Conexão com o banco de dados
+    /*  Conexão com o banco de dados
     private static Connection connect() {
         String url = "jdbc:sqlite:portaria.db"; // Nome do arquivo do banco de dados
         Connection conn = null;
@@ -14,8 +10,10 @@ public class Portaria {
         }
         return conn;
     }
+    */
     // Metodo main
     public static void main(String[] args) {
         
     }
+    
 }
