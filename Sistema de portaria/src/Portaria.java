@@ -1,7 +1,15 @@
 public class Portaria {
-    // Metodo main
-    public static void main(String[] args) {
+
+    // metodo para entrada  
+    public void RegistrarEntrada(){
+        Scanner scanner = new Scanner(System.in);
         
+        // Vericicar se o cpf da pessoa esta criado
+        System.out.println("Digite o CPF da pessoa: ");
+        String cpf = scanner.nextLine();
+        if (condition) {
+            
+        }
+
     }
-    
 }
