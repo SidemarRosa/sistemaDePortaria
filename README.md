@@ -7,14 +7,15 @@ Este projeto Java é uma aplicação simples desenvolvida para gerenciar o regis
 ## Funcionalidades
 
 - Registro de entrada de funcionários e visitantes com data e hora
-- Interface para visualizar registros de entrada
+- Adiministração das empresas de funcionarios
+- Consulta de registros de entrada
+- Geração de Relatorios de entrada
 - Busca por registros específicos
-- Armazenamento de dados em um arquivo local ou banco de dados (especificar a opção utilizada)
+- Armazenamento de dados em um arquivo local ou banco de dados (ainda não definido)
 
 ## Tecnologias Utilizadas
 
-- Java SE (versão X.X)
-- Biblioteca de interface gráfica: Swing / JavaFX (especificar a opção utilizada)
+- Java SE (V17)
 - Armazenamento de dados: Arquivo local / JDBC (especificar a opção utilizada)
 
 ## Requisitos
